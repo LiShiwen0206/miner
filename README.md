@@ -1,2 +1,0 @@
-# miner
-miner-docker
