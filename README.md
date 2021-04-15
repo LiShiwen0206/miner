@@ -4,6 +4,8 @@ miner-docker
 
 cpu矿机
 
+build:
+docker build -t miner:v1 .
 
 run：
 单核cpu上限20%：
